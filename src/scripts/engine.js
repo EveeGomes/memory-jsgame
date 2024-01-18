@@ -19,7 +19,7 @@ const emojis = [
 let openCards = [];
 
 let timer = document.querySelector(".counter");
-let counter = 5;
+let counter = 30;
 timer.textContent = counter;
 let counterCountdown = 0;
 

@@ -119,7 +119,7 @@ h3 {
   position: absolute;
   inset: 0;
   background: #404040;
-  /* opacity: 0.85; */
+
   transition: 0.25s;
   transform: rotateY(0deg);
   backface-visibility: hidden;
