@@ -1,7 +1,8 @@
 # Memory Game
 
-<img src="cards.png" width="210" height="235">
-<img src="emojis.png" width="210" height="235">
+<img src="cards.png" width="420" height="435"> <img src="emojis.png" width="420" height="435">
+
+
 
 In this repository you can find a cute memory game made only with a short HTML file, CSS and JavaScript.
 
