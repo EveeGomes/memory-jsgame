@@ -1,6 +1,6 @@
 # Memory Game
 
-<img src="cards.png" width="400" height="435"> <img src="emojis.png" width="400" height="435">
+<img src="cards.png" width="400" height="435"> <img src="emojis.png" width="390" height="435">
 
 
 
